@@ -420,9 +420,13 @@
 }
 
 .abc {
-  margin-bottom: 50px;
-  /* margin-right: 10px; */
+  margin-bottom: 20px;
+  margin-right: 10px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  height: 400px;
+  height: 65vh;
   padding-top: 15px;
+}
+.icons-tech {
+  width: 80px;
+  height: 80px;
 }
